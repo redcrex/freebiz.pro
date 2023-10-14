@@ -1,1 +1,1 @@
-# cryptopreneur.community
+# freebiz.pro
