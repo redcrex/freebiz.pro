@@ -804,7 +804,7 @@ section {
 
 @media (max-width: 575px) {
   .why-us .img {
-    min-height: 600px;
+    min-height: 500px;
   }
 }
 
