@@ -473,7 +473,7 @@ h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: 150vh;
+    height: 180vh;
     text-align: center;
   }
 
@@ -510,7 +510,7 @@ h6 {
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 60%;
+    width: 100%;
   }
 
   #hero .btn-get-started {
