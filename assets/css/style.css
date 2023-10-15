@@ -704,9 +704,9 @@ section {
 }
 
 .why-us .img {
-  background-size: 87%;
+  background-size: 88%;
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: center center;
 }
 
 .why-us .accordion-list {
@@ -804,7 +804,7 @@ section {
 
 @media (max-width: 575px) {
   .why-us .img {
-    min-height: 200px;
+    min-height: 300px;
   }
 }
 
