@@ -473,7 +473,7 @@ h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: 180vh;
+    height: 150vh;
     text-align: center;
   }
 
@@ -704,7 +704,7 @@ section {
 }
 
 .why-us .img {
-  background-size: 88%;
+  background-size: 85%;
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -804,7 +804,7 @@ section {
 
 @media (max-width: 575px) {
   .why-us .img {
-    min-height: 300px;
+    min-height: 600px;
   }
 }
 
