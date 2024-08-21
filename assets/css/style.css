@@ -590,7 +590,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #ff00ff;
+  background: #ff8c00;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -1326,7 +1326,7 @@ section {
 }
 
 .pricing .featured {
-  border-top-color: #9b3cc1;
+  border-top-color: #ffff9e;
 }
 
 .pricing .featured .buy-btn {
