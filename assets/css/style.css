@@ -25,7 +25,7 @@ a:hover {
 }
 
 p{
-  color:#d3d3d3;
+  color:#ffffff;
 }
 
 h1,
@@ -597,7 +597,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-  color:#a3a3a3;
+  color:#ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -707,7 +707,7 @@ section {
 
 .why-us .content p {
   font-size: 15px;
-  color: #a3a3a3;
+  color: #ffffff;
 }
 
 .why-us .img {
@@ -731,7 +731,7 @@ section {
 
 .why-us .accordion-list li {
   padding: 20px;
-  background: #1e1e20;
+  background: transparent;
   border-radius: 4px;
 }
 
@@ -771,7 +771,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #a3a3a3;
+  color: #ffffff;
 }
 
 .why-us .accordion-list a.collapsed:hover {
@@ -885,7 +885,7 @@ section {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
-  background: #251829;
+  background: transparent;
 }
 
 .services .icon-box .icon {
@@ -1254,7 +1254,7 @@ section {
 
 .pricing p{
   font-size:14px;
-  color:#a3a3a3;
+  color:#ffffff;
 }
 .pricing h4 {
   font-size: 48px;
